@@ -6,7 +6,7 @@
 
 Ben, sağlam, ölçeklenebilir ve kullanıcı dostu web uygulamaları geliştirmeye tutkuyla bağlı, dinamik bir **Full-Stack Web Developer**. Hem ön yüz (front-end) hem de arka yüz (back-end) teknolojilerindeki uzmanlığım, konseptten dağıtıma kadar kesintisiz dijital deneyimler yaratmamı sağlıyor.
 
-Karmaşık sorunları çözmeyi, yeni teknolojileri öğrenmeyi ve açık kaynak projelere katkıda bulunmayı seviyorum. Kod yazmadığım zamanlarda [hobinizi veya ilgi alanınızı belirtin, örn: yeni kahve dükkanları keşfederim, doğa yürüyüşleri yaparım, video oyunları oynarım].
+Karmaşık sorunları çözmeyi, yeni teknolojileri öğrenmeyi ve açık kaynak projelere katkıda bulunmayı seviyorum. Kod yazmadığım zamanlarda [uzaylılarla konusurum, uyurum, gereksiz insanların poposuna tekme atarım, oyun oynarım].
 
 ---
 
